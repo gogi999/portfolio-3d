@@ -30,7 +30,7 @@ const Navbar = () => {
           <img 
             src={g9_logo} 
             alt="logo" 
-            className="w-9 h-9 object-contain rounded-lg"  
+            className="w-9 h-9 object-contain rounded-[12px]"  
           />
           <p className="text-white text-[18px] font-bold cursor-pointer"><span className="sm:block hidden">Gogi-9 Code</span></p>
         </Link>
